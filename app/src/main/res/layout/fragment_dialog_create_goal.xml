@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/button_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <!-- Button 1: Yellow with a H -->
+        <TextView
+            android:id="@+id/button1"
+            android:layout_width="25dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="16dp"
+            android:layout_weight="1"
+            android:background="@drawable/context_button"
+            android:gravity="center"
+            android:text="H"
+            android:textSize="24sp" />
+
+        <!-- Spacer View to push other buttons to the end -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:visibility="invisible" />
+
+        <!-- Button 2: Blue with a W -->
+        <TextView
+            android:id="@+id/button2"
+            android:layout_width="25dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/context_button"
+            android:gravity="center"
+            android:text="W"
+            android:textSize="24sp" />
+
+        <!-- Spacer View to push other buttons to the end -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:visibility="invisible" />
+
+        <!-- Button 3: Pink with a S -->
+        <TextView
+            android:id="@+id/button3"
+            android:layout_width="25dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/context_button"
+            android:gravity="center"
+            android:text="S"
+            android:textSize="24sp" />
+
+        <!-- Spacer View to push other buttons to the end -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:visibility="invisible" />
+
+        <!-- Button 4: Green with an E -->
+        <TextView
+            android:id="@+id/button4"
+            android:layout_width="25dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="1"
+            android:background="@drawable/context_button"
+            android:gravity="center"
+            android:text="E"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+
+    <EditText
+        android:id="@+id/goal_edit_text"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:hint="@string/enter_goal2"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        android:maxLength="24"
+        android:maxLines="1"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_row"
+        tools:ignore="LabelFor" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

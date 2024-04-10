@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Successorator</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="enter_goal1">Enter a goal</string>
+    <string name="submit">Submit</string>
+    <string name="checkmark">✓</string>
+    <string name="enter_goal2">Enter a goal...</string>
+    <string name="x">X</string>
+    <string name="goal_text">Goal text</string>
+    <string name="add">+</string>
+    <string name="date">Date</string>
+    <string name="tmrw">Tmrw</string>
+    <string name="today_string">Today</string>
+    <string name="tmrw_string">Tomorrow</string>
+    <string name="pending_string">Pending</string>
+    <string name="recurring_string">Recurring</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="home">Home</string>
+    <string name="work">Work</string>
+    <string name="school">School</string>
+    <string name="errand">Errand</string>
+</resources>
