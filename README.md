@@ -6,7 +6,7 @@ A mobile app designed to help users manage their daily, recurring, and future go
 
 ## 📱 App UI Preview
 
-## 🧩 Add & Complete Goals
+### 🧩 Add & Complete Goals
 <br><img src="https://github.com/user-attachments/assets/cc213786-a092-4b17-ad40-0b5cf6afbae1" width="600"/>
 
 
