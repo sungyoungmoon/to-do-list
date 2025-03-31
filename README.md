@@ -5,7 +5,7 @@ A mobile app designed to help users manage their daily, recurring, and future go
 
 ## Meet Our team
 
-<br> <img src="https://github.com/user-attachments/assets/79c45e0e-78b3-4935-bda6-f9fbf68bb129" width="200">
+<br> <img src="https://github.com/user-attachments/assets/79c45e0e-78b3-4935-bda6-f9fbf68bb129" width="500">
 
 
 ## ✨ Features
