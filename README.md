@@ -3,6 +3,14 @@
 A mobile app designed to help users manage their daily, recurring, and future goals. Built using Agile methodology with comprehensive planning, task tracking, and scenario-based testing.
 
 
+<br>
+<img src="https://github.com/user-attachments/assets/c282d37a-30ca-4de9-9ba0-3c61caa0a3be" width="700">
+
+
+<br>
+<img src="https://github.com/user-attachments/assets/f35350be-bcc7-4976-a8c5-ef204bb450e4" width="700">
+
+
 
 ## ✨ Features
 - Add daily and recurring goals
