@@ -45,7 +45,7 @@ Scenario-based testing was applied across:
 
 ## 👥 Meet Our Team
 <br>
-<img src="https://github.com/user-attachments/assets/79c45e0e-78b3-4935-bda6-f9fbf68bb129" width="500">
+<img src="https://github.com/user-attachments/assets/79c45e0e-78b3-4935-bda6-f9fbf68bb129" width="700">
 
 We’re a team of UC San Diego students passionate about productivity, mobile development, and Agile engineering. Our project reflects a strong focus on teamwork, clarity, and building for real users.
 
