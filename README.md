@@ -3,10 +3,6 @@
 A mobile app designed to help users manage their daily, recurring, and future goals. Built using Agile methodology with comprehensive planning, task tracking, and scenario-based testing.
 
 
-## Meet Our team
-
-<br> <img src="https://github.com/user-attachments/assets/79c45e0e-78b3-4935-bda6-f9fbf68bb129" width="500">
-
 
 ## ✨ Features
 - Add daily and recurring goals
@@ -45,6 +41,15 @@ Scenario-based testing was applied across:
 - Daily/Recurring goals
 - Context labeling
 - Date-based goal updates
+
+
+## 👥 Meet Our Team
+<br>
+<img src="https://github.com/user-attachments/assets/79c45e0e-78b3-4935-bda6-f9fbf68bb129" width="500">
+
+We’re a team of UC San Diego students passionate about productivity, mobile development, and Agile engineering. Our project reflects a strong focus on teamwork, clarity, and building for real users.
+
+
 
 ## 📌 GitHub Project Board
 You can view all user stories, tasks, and testing checkpoints on the [Project Board](https://github.com/CSE-110-Winter-2024/project-team-11/projects).
