@@ -7,15 +7,15 @@ A mobile app designed to help users manage their daily, recurring, and future go
 📱 App UI Preview
 
 🧩 Add & Complete Goals
-<img src="https://github.com/user-attachments/assets/cc213786-a092-4b17-ad40-0b5cf6afbae1" width="600"/>
+<br><img src="https://github.com/user-attachments/assets/cc213786-a092-4b17-ad40-0b5cf6afbae1" width="600"/>
 
 
 ➕ Multi-Line Goal Input
-<img src="https://github.com/user-attachments/assets/87f1f384-4653-4901-a898-9b3e768e1f91" width="600"/>
+<br><img src="https://github.com/user-attachments/assets/87f1f384-4653-4901-a898-9b3e768e1f91" width="600"/>
 
 
 🏷 Group by Context
-<img src="https://github.com/user-attachments/assets/8ac68780-08d2-46c3-96dd-dbc1b24800ad" width="600"/>
+<br><img src="https://github.com/user-attachments/assets/8ac68780-08d2-46c3-96dd-dbc1b24800ad" width="600"/>
 
 
 ## ✨ Features
